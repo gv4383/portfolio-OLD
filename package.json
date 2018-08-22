@@ -20,7 +20,7 @@
     "lodash": "^4.17.4",
     "react-images": "^0.5.14"
   },
-  "homepage": "https://github.com/ChangoMan/gatsby-starter-strata",
+  "homepage": "https://gv4383.github.io/portfolio",
   "keywords": [
     "gatsby"
   ],
@@ -28,7 +28,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChangoMan/gatsby-starter-strata.git"
+    "url": "https://github.com/gv4383/portfolio.git"
   },
   "scripts": {
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",

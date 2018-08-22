@@ -16,12 +16,6 @@ class Header extends React.Component {
           <h1>Full-Stack Developer</h1>
           <br />
           <br />
-          <h1>
-            Tech enthusiast ready to tackle
-            <br /> the world of software development!
-          </h1>
-          <br />
-          <br />
           <div>
             <p>
               <a className="no-link" href="#about">
