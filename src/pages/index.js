@@ -226,12 +226,12 @@ class HomeIndex extends React.Component {
                     <br />
                     United States
                   </li>
-                  <li>
+                  {/* <li>
                     <h3 className="icon fa-mobile">
                       <span className="label">Phone</span>
                     </h3>
-                    (512) 350-3055
-                  </li>
+                    000-000-0000
+                  </li> */}
                   <li>
                     <h3 className="icon fa-envelope-o">
                       <span className="label">Email</span>
