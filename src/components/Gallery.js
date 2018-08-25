@@ -84,8 +84,8 @@ class Gallery extends Component {
               rel="noopener noreferrer"
             />
           </h3>
-          <p>{obj.description}</p>
           <p>{obj.technology}</p>
+          <p>{obj.description}</p>
         </article>
       )
     })

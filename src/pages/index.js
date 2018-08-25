@@ -25,7 +25,7 @@ import noDb from '../assets/images/thumbs/noDB_01.png'
 import ss01 from '../assets/images/thumbs/SS_01.png'
 import ft01 from '../assets/images/thumbs/FT_01.png'
 
-import resume from '../assets/resume/Full_Stack_Dev.pdf'
+import resume from '../assets/resume/Full_Stack_Dev_Resume.pdf'
 
 const DEFAULT_IMAGES = [
   {
@@ -233,12 +233,27 @@ class HomeIndex extends React.Component {
                     000-000-0000
                   </li> */}
                   <li>
+                    <h3 className="icon fa-linkedin">
+                      <span className="label">LinkedIn</span>
+                    </h3>
+                    <a
+                      className="no-link"
+                      href="https://linkedin.com/in/gregoryvargas"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      linkedin.com/in/gregoryvargas
+                    </a>
+                  </li>
+                  <li>
                     <h3 className="icon fa-envelope-o">
                       <span className="label">Email</span>
                     </h3>
                     <a
                       className="no-link"
                       href="mailto:gregory.vargas18@gmail.com"
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       gregory.vargas18@gmail.com
                     </a>
