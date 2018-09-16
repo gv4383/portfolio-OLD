@@ -30,6 +30,12 @@ const skillsArray = [
     src: icon14,
   },
   {
+    id: '5',
+    name: 'Vue.js',
+    url: 'https://vuejs.org/',
+    src: icon5,
+  },
+  {
     id: '3',
     name: 'ES6+',
     url: 'https://es6.io/',
@@ -52,6 +58,12 @@ const skillsArray = [
     name: 'PostgreSQL',
     url: 'https://www.postgresql.org/',
     src: icon8,
+  },
+  {
+    id: '11',
+    name: 'Sass',
+    url: 'https://sass-lang.com/',
+    src: icon11,
   },
   {
     id: '15',
