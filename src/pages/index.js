@@ -23,6 +23,7 @@ import full06 from '../assets/images/fulls/06.jpg'
 
 import noDb from '../assets/images/thumbs/noDB_01.png'
 import ss01 from '../assets/images/thumbs/SS_01.png'
+import ss02 from '../assets/images/thumbs/SS_02.png'
 import ft01 from '../assets/images/thumbs/FT_01.png'
 
 import resume from '../assets/resume/Full_Stack_Dev_Resume.pdf'
@@ -42,7 +43,7 @@ const DEFAULT_IMAGES = [
   {
     id: '2',
     src: full02,
-    thumbnail: ss01,
+    thumbnail: ss02,
     caption: 'Sound Skwerl (June 2018 - July 2018)',
     description:
       'A music app that utilizes the Spotify API to search for songs and create custom playlists.',
