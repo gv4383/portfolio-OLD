@@ -26,7 +26,7 @@ import ss01 from '../assets/images/thumbs/SS_01.png'
 import ss02 from '../assets/images/thumbs/SS_02.png'
 import ft01 from '../assets/images/thumbs/FT_01.png'
 
-import resume from '../assets/resume/Full_Stack_Dev_Resume.pdf'
+import resume from '../assets/resume/Greg_Vargas_Dev_Resume.pdf'
 
 const DEFAULT_IMAGES = [
   {
