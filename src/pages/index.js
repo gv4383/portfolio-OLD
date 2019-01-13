@@ -26,7 +26,7 @@ import ss01 from '../assets/images/thumbs/SS_01.png'
 import ss02 from '../assets/images/thumbs/SS_02.png'
 import ft01 from '../assets/images/thumbs/FT_01.png'
 
-import resume from '../assets/resume/Greg_Vargas_Dev_Resume.pdf'
+import resume from '../assets/resume/Greg_Vargas_SE_Resume.pdf'
 
 const DEFAULT_IMAGES = [
   {
@@ -127,7 +127,7 @@ class HomeIndex extends React.Component {
               <h2>Hey there, I'm Greg!</h2>
             </header>
             <p>
-              I'm a full-stack developer with a passion for creating innovative
+              I'm a software engineer with a passion for creating innovative
               solutions.
               <br />
               <br />I originally graduated with a degree in Electrical
