@@ -252,11 +252,11 @@ class HomeIndex extends React.Component {
                     </h3>
                     <a
                       className="no-link"
-                      href="mailto:gregory.vargas18@gmail.com"
+                      href="mailto:gregory.t.vargas@gmail.com"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      gregory.vargas18@gmail.com
+                      gregory.t.vargas@gmail.com
                     </a>
                   </li>
                 </ul>
