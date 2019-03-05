@@ -5,7 +5,7 @@
   "author": "Hunter Chang",
   "dependencies": {
     "gatsby": "^1.9.235",
-    "gatsby-cli": "^2.4.8",
+    "gatsby-cli": "^2.4.13",
     "gatsby-image": "^1.0.42",
     "gatsby-link": "^1.6.39",
     "gatsby-plugin-google-analytics": "^1.0.24",
@@ -18,7 +18,7 @@
     "gatsby-transformer-remark": "^1.7.37",
     "gatsby-transformer-sharp": "^1.6.22",
     "hover.css": "^2.3.2",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.11",
     "react-images": "^0.5.14"
   },
   "homepage": "https://gv4383.github.io/portfolio",
