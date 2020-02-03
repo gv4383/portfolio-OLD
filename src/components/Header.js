@@ -28,6 +28,11 @@ class Header extends React.Component {
               </a>
             </p>
             <p>
+              <a className="no-link" href="#work">
+                Work Experience
+              </a>
+            </p>
+            <p>
               <a className="no-link" href="#projects">
                 Personal & Group Projects
               </a>

@@ -168,6 +168,59 @@ class HomeIndex extends React.Component {
           </section>
 
           <section id="three">
+            <a name="work" />
+            <h2>Work Experience</h2>
+
+            <h3 className="work-title">
+              <a className="no-link" href="https://www.silvercar.com" rel="noopener noreferrer" target="_blank">
+                Silvercar Inc.
+                {' '}
+                <span className="icon fa-external-link" />
+              </a>
+            </h3>
+            <div>Software Engineer</div>
+            <div>April 2019 - Present</div>
+            <ul>
+              <li>Created new customer interfacing product for Dealerware in React</li>
+              <li>Implemented new micro frontend React features to replace legacy app</li>
+              <li>Tested Redux actions/reducers/selectors and util methods with Jest/React Testing Library</li>
+              <li>Developed and tested API services/endpoints in Ruby on Rails</li>
+            </ul>
+
+            <h3 className="work-title">
+              <a className="no-link" href="https://degreeanalytics.com" rel="noopener noreferrer" target="_blank">
+                Degree Analytics
+                {' '}
+                <span className="icon fa-external-link" />
+              </a>
+            </h3>
+            <div>Software Engineer - Intern</div>
+            <div>December 2018 - April 2019</div>
+            <ul>
+              <li>Maintained and implemented small features in React code base</li>
+              <li>Improved front end performance by implementing JavaScript libraries such as Normalizr and Reselect</li>
+              <li>Automated parts of QA process by writing unit tests with Jest/Enzyme</li>
+              <li>Reduced QA time each sprint through automated QA process</li>
+            </ul>
+
+            <h3 className="work-title">
+              <a className="no-link" href="https://business.jollyhq.com" rel="noopener noreferrer" target="_blank">
+                JollyFMS
+                {' '}
+                <span className="icon fa-external-link" />
+              </a>
+            </h3>
+            <div>Software Engineer - Intern</div>
+            <div>October 2018 - December 2018</div>
+            <ul>
+              <li>Implemented specifications into components/features using React</li>
+              <li>Collaborated with a small group of designers and engineers</li>
+              <li>Tested front end components by writing unit tests with Jest/Enzyme</li>
+              <li>Wrote specifications for different web views based on designer views</li>
+            </ul>
+          </section>
+
+          <section id="four">
             <a name="projects" />
             <h2>Personal & Group Projects</h2>
 
@@ -208,7 +261,7 @@ class HomeIndex extends React.Component {
             </ul>
           </section>
 
-          <section id="four">
+          <section id="five">
             <a name="contact" />
             <h2>Let's Get In Touch!</h2>
             <p>
